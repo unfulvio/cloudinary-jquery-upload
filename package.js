@@ -15,7 +15,7 @@ Package.onUse(function(api) {
   api.use('jquery', 'client');
 
   api.add_files([
-    'vendor/jquery.ui-widget.js',
+    'vendor/jquery.ui.widget.js',
     'vendor/jquery.iframe-transport.js',
     'vendor/jquery.fileupload.js',
     'vendor/jquery.cloudinary.js'
